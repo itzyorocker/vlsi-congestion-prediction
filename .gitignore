@@ -1,0 +1,9 @@
+data/
+*.pt
+__pycache__/
+*.pyc
+sample.png
+prediction.png
+gallery.png
+extended_gallery_part*.png
+patch_gallery_*.png
